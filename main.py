@@ -1,4 +1,4 @@
-o = open("yt school history.txt", encoding="utf-8")
+o = open("yt history.txt", encoding="utf-8")
 hist = o.readlines()
 
 class Video:
